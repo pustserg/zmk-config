@@ -31,7 +31,7 @@
 &kp LWIN  &mt GRAVE LS(TILDE)  &kp Q   &kp W         &kp E      &kp R      &kp T        &kp Y        &kp U           &kp I      &kp O      &kp P                   &kp LBKT       &mt RWIN RBKT
           &kp LCTRL            &kp A   &kp S         &kp D      &kp F      &kp G        &kp H        &kp J           &kp K      &kp L      &kp SEMI                &mt RCTRL SQT
           &kp LEFT_SHIFT       &kp Z   &kp X         &kp C      &kp V      &kp B        &kp N        &kp M           &kp COMMA  &kp DOT    &mt SLASH LS(QUESTION)  &mt RALT BSLH
-                                       &kp LEFT_ALT  &lt 2 TAB  &kp SPACE  &lt 1 RET    &lt 1 SPACE  &mt RSHFT BSPC  &lt 2 DEL  &kp GRAVE
+                                       &kp LEFT_ALT  &lt 2 TAB  &kp SPACE  &lt 1 RET    &lt 1 SPACE  &mt RSHFT BSPC  &lt 2 DEL  &kp TILDE
             >;
         };
 
